@@ -1,0 +1,5 @@
+???,false,false,50,50,false,
+bahiru,false,false,1000,0,false,
+bukare,false,false,1000,0,false,
+abebe,true,false,1000,0,false,
+meron,false,false,1000,0,false,
